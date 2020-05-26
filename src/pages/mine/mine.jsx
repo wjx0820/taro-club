@@ -12,7 +12,7 @@ export default function Mine() {
         <View className="mine-nickName">杰西</View>
         <View className="mine-username">jesse</View>
       </View>
-      <View className="mine-footer">build with 💙</View>
+      <View className="mine-footer">Build with 💙</View>
     </View>
   )
 }
